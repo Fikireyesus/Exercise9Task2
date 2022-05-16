@@ -3,7 +3,7 @@ public class NullPointerExceptionTask1 {
     public static void main(String[] args) {
         try
         {
-            String Bloom=Task1.generateException();
+            String Bloom= Task_1.generateException();
             Bloom.toString();
         }
         catch (NullPointerException fb)
